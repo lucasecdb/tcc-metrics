@@ -1,4 +1,4 @@
-filename,elapsed_time,input_size,output_size,format,video_codec,audio_codec,wasm,index
+filename,elapsed_time,input_size,output_size,format,video_codec,audio_codec,wasm,index,browser
 "earth.mp4",7.738805000000866,1570024,1322592,"matroska","mpeg4","aac",1,1,"Chrome 77"
 "earth.mp4",6.825760000006994,1570024,1322592,"matroska","mpeg4","aac",1,2,"Chrome 77"
 "earth.mp4",6.659534999998868,1570024,1322592,"matroska","mpeg4","aac",1,3,"Chrome 77"
