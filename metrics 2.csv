@@ -1,201 +1,201 @@
-filename,elapsed_time,input_size,output_size,format,video_codec,audio_codec,wasm,index,browser
-"earth.mp4",6.583169999998063,1570024,1322592,"matroska","mpeg4","aac",1,1,"Chrome 77"
-"earth.mp4",6.716005000002042,1570024,1322592,"matroska","mpeg4","aac",1,2,"Chrome 77"
-"earth.mp4",6.371745000004012,1570024,1322592,"matroska","mpeg4","aac",1,3,"Chrome 77"
-"earth.mp4",6.680059999998775,1570024,1322592,"matroska","mpeg4","aac",1,4,"Chrome 77"
-"earth.mp4",6.841964999999618,1570024,1322592,"matroska","mpeg4","aac",1,5,"Chrome 77"
-"earth.mp4",6.718825000003562,1570024,1322592,"matroska","mpeg4","aac",1,6,"Chrome 77"
-"earth.mp4",6.465844999998808,1570024,1322592,"matroska","mpeg4","aac",1,7,"Chrome 77"
-"earth.mp4",6.867494999998598,1570024,1322592,"matroska","mpeg4","aac",1,8,"Chrome 77"
-"earth.mp4",6.386099999996077,1570024,1322592,"matroska","mpeg4","aac",1,9,"Chrome 77"
-"earth.mp4",6.472289999997884,1570024,1322592,"matroska","mpeg4","aac",1,10,"Chrome 77"
-"earth.mp4",6.432285000002594,1570024,1322592,"matroska","mpeg4","aac",1,11,"Chrome 77"
-"earth.mp4",6.4408000000039465,1570024,1322592,"matroska","mpeg4","aac",1,12,"Chrome 77"
-"earth.mp4",6.556234999996377,1570024,1322592,"matroska","mpeg4","aac",1,13,"Chrome 77"
-"earth.mp4",6.547294999996666,1570024,1322592,"matroska","mpeg4","aac",1,14,"Chrome 77"
-"earth.mp4",6.475404999997409,1570024,1322592,"matroska","mpeg4","aac",1,15,"Chrome 77"
-"earth.mp4",6.3206649999992806,1570024,1322592,"matroska","mpeg4","aac",1,16,"Chrome 77"
-"earth.mp4",6.704850000001898,1570024,1322592,"matroska","mpeg4","aac",1,17,"Chrome 77"
-"earth.mp4",6.566895000003569,1570024,1322592,"matroska","mpeg4","aac",1,18,"Chrome 77"
-"earth.mp4",6.832235000001674,1570024,1322592,"matroska","mpeg4","aac",1,19,"Chrome 77"
-"earth.mp4",6.700830000001588,1570024,1322592,"matroska","mpeg4","aac",1,20,"Chrome 77"
-"earth.mp4",6.400789999999688,1570024,1322592,"matroska","mpeg4","aac",1,21,"Chrome 77"
-"earth.mp4",6.531255000001693,1570024,1322592,"matroska","mpeg4","aac",1,22,"Chrome 77"
-"earth.mp4",6.521094999996421,1570024,1322592,"matroska","mpeg4","aac",1,23,"Chrome 77"
-"earth.mp4",6.404304999996384,1570024,1322592,"matroska","mpeg4","aac",1,24,"Chrome 77"
-"earth.mp4",6.606735000001208,1570024,1322592,"matroska","mpeg4","aac",1,25,"Chrome 77"
-"earth.mp4",6.580054999998538,1570024,1322592,"matroska","mpeg4","aac",1,26,"Chrome 77"
-"earth.mp4",6.439854999996896,1570024,1322592,"matroska","mpeg4","aac",1,27,"Chrome 77"
-"earth.mp4",6.527925000002142,1570024,1322592,"matroska","mpeg4","aac",1,28,"Chrome 77"
-"earth.mp4",6.366920000000391,1570024,1322592,"matroska","mpeg4","aac",1,29,"Chrome 77"
-"earth.mp4",6.6478750000023865,1570024,1322592,"matroska","mpeg4","aac",1,30,"Chrome 77"
-"earth.mp4",6.366824999997334,1570024,1322592,"matroska","mpeg4","aac",1,31,"Chrome 77"
-"earth.mp4",6.4230400000014924,1570024,1322592,"matroska","mpeg4","aac",1,32,"Chrome 77"
-"earth.mp4",6.616509999999835,1570024,1322592,"matroska","mpeg4","aac",1,33,"Chrome 77"
-"earth.mp4",6.514309999998659,1570024,1322592,"matroska","mpeg4","aac",1,34,"Chrome 77"
-"earth.mp4",6.509310000001278,1570024,1322592,"matroska","mpeg4","aac",1,35,"Chrome 77"
-"earth.mp4",6.477924999999232,1570024,1322592,"matroska","mpeg4","aac",1,36,"Chrome 77"
-"earth.mp4",6.499774999996589,1570024,1322592,"matroska","mpeg4","aac",1,37,"Chrome 77"
-"earth.mp4",6.866135000003851,1570024,1322592,"matroska","mpeg4","aac",1,38,"Chrome 77"
-"earth.mp4",6.576939999999013,1570024,1322592,"matroska","mpeg4","aac",1,39,"Chrome 77"
-"earth.mp4",6.642234999999346,1570024,1322592,"matroska","mpeg4","aac",1,40,"Chrome 77"
-"earth.mp4",6.3815600000016275,1570024,1322592,"matroska","mpeg4","aac",1,41,"Chrome 77"
-"earth.mp4",6.851844999997411,1570024,1322592,"matroska","mpeg4","aac",1,42,"Chrome 77"
-"earth.mp4",6.4282050000038,1570024,1322592,"matroska","mpeg4","aac",1,43,"Chrome 77"
-"earth.mp4",6.746689999999944,1570024,1322592,"matroska","mpeg4","aac",1,44,"Chrome 77"
-"earth.mp4",6.99554000000353,1570024,1322592,"matroska","mpeg4","aac",1,45,"Chrome 77"
-"earth.mp4",6.522514999996929,1570024,1322592,"matroska","mpeg4","aac",1,46,"Chrome 77"
-"earth.mp4",6.671790000000328,1570024,1322592,"matroska","mpeg4","aac",1,47,"Chrome 77"
-"earth.mp4",6.623050000001967,1570024,1322592,"matroska","mpeg4","aac",1,48,"Chrome 77"
-"earth.mp4",7.179230000001553,1570024,1322592,"matroska","mpeg4","aac",1,49,"Chrome 77"
-"earth.mp4",6.718029999996361,1570024,1322592,"matroska","mpeg4","aac",1,50,"Chrome 77"
-"earth.mp4",15.769834999999148,1570024,1322592,"matroska","mpeg4","aac",0,1,"Chrome 77"
-"earth.mp4",15.123590000002878,1570024,1322592,"matroska","mpeg4","aac",0,2,"Chrome 77"
-"earth.mp4",15.3382649999985,1570024,1322592,"matroska","mpeg4","aac",0,3,"Chrome 77"
-"earth.mp4",15.542764999998326,1570024,1322592,"matroska","mpeg4","aac",0,4,"Chrome 77"
-"earth.mp4",15.193349999994098,1570024,1322592,"matroska","mpeg4","aac",0,5,"Chrome 77"
-"earth.mp4",15.845554999999877,1570024,1322592,"matroska","mpeg4","aac",0,6,"Chrome 77"
-"earth.mp4",15.632364999997662,1570024,1322592,"matroska","mpeg4","aac",0,7,"Chrome 77"
-"earth.mp4",15.644560000000638,1570024,1322592,"matroska","mpeg4","aac",0,8,"Chrome 77"
-"earth.mp4",15.476990000002843,1570024,1322592,"matroska","mpeg4","aac",0,9,"Chrome 77"
-"earth.mp4",15.713429999996151,1570024,1322592,"matroska","mpeg4","aac",0,10,"Chrome 77"
-"earth.mp4",15.759109999999055,1570024,1322592,"matroska","mpeg4","aac",0,11,"Chrome 77"
-"earth.mp4",15.753375000000233,1570024,1322592,"matroska","mpeg4","aac",0,12,"Chrome 77"
-"earth.mp4",15.411294999998063,1570024,1322592,"matroska","mpeg4","aac",0,13,"Chrome 77"
-"earth.mp4",16.014250000000175,1570024,1322592,"matroska","mpeg4","aac",0,14,"Chrome 77"
-"earth.mp4",15.253870000000461,1570024,1322592,"matroska","mpeg4","aac",0,15,"Chrome 77"
-"earth.mp4",15.65778500000306,1570024,1322592,"matroska","mpeg4","aac",0,16,"Chrome 77"
-"earth.mp4",15.728989999995974,1570024,1322592,"matroska","mpeg4","aac",0,17,"Chrome 77"
-"earth.mp4",15.430245000003197,1570024,1322592,"matroska","mpeg4","aac",0,18,"Chrome 77"
-"earth.mp4",15.29142000000138,1570024,1322592,"matroska","mpeg4","aac",0,19,"Chrome 77"
-"earth.mp4",15.332159999998112,1570024,1322592,"matroska","mpeg4","aac",0,20,"Chrome 77"
-"earth.mp4",15.582770000000892,1570024,1322592,"matroska","mpeg4","aac",0,21,"Chrome 77"
-"earth.mp4",15.789530000001832,1570024,1322592,"matroska","mpeg4","aac",0,22,"Chrome 77"
-"earth.mp4",15.266889999998966,1570024,1322592,"matroska","mpeg4","aac",0,23,"Chrome 77"
-"earth.mp4",15.26059499999974,1570024,1322592,"matroska","mpeg4","aac",0,24,"Chrome 77"
-"earth.mp4",15.447824999995646,1570024,1322592,"matroska","mpeg4","aac",0,25,"Chrome 77"
-"earth.mp4",15.469040000003588,1570024,1322592,"matroska","mpeg4","aac",0,26,"Chrome 77"
-"earth.mp4",15.502419999997073,1570024,1322592,"matroska","mpeg4","aac",0,27,"Chrome 77"
-"earth.mp4",15.313700000006065,1570024,1322592,"matroska","mpeg4","aac",0,28,"Chrome 77"
-"earth.mp4",15.302074999999604,1570024,1322592,"matroska","mpeg4","aac",0,29,"Chrome 77"
-"earth.mp4",15.466560000000754,1570024,1322592,"matroska","mpeg4","aac",0,30,"Chrome 77"
-"earth.mp4",15.334419999999227,1570024,1322592,"matroska","mpeg4","aac",0,31,"Chrome 77"
-"earth.mp4",15.18963999999687,1570024,1322592,"matroska","mpeg4","aac",0,32,"Chrome 77"
-"earth.mp4",15.654685000001336,1570024,1322592,"matroska","mpeg4","aac",0,33,"Chrome 77"
-"earth.mp4",15.16969500000414,1570024,1322592,"matroska","mpeg4","aac",0,34,"Chrome 77"
-"earth.mp4",15.40106999999989,1570024,1322592,"matroska","mpeg4","aac",0,35,"Chrome 77"
-"earth.mp4",15.542484999998123,1570024,1322592,"matroska","mpeg4","aac",0,36,"Chrome 77"
-"earth.mp4",15.283615000000282,1570024,1322592,"matroska","mpeg4","aac",0,37,"Chrome 77"
-"earth.mp4",15.25028499999462,1570024,1322592,"matroska","mpeg4","aac",0,38,"Chrome 77"
-"earth.mp4",15.497354999999516,1570024,1322592,"matroska","mpeg4","aac",0,39,"Chrome 77"
-"earth.mp4",15.260385000001406,1570024,1322592,"matroska","mpeg4","aac",0,40,"Chrome 77"
-"earth.mp4",15.211330000005546,1570024,1322592,"matroska","mpeg4","aac",0,41,"Chrome 77"
-"earth.mp4",15.211130000003322,1570024,1322592,"matroska","mpeg4","aac",0,42,"Chrome 77"
-"earth.mp4",15.51140000000305,1570024,1322592,"matroska","mpeg4","aac",0,43,"Chrome 77"
-"earth.mp4",15.27249500000471,1570024,1322592,"matroska","mpeg4","aac",0,44,"Chrome 77"
-"earth.mp4",15.960055000003194,1570024,1322592,"matroska","mpeg4","aac",0,45,"Chrome 77"
-"earth.mp4",15.235684999999648,1570024,1322592,"matroska","mpeg4","aac",0,46,"Chrome 77"
-"earth.mp4",15.485484999997425,1570024,1322592,"matroska","mpeg4","aac",0,47,"Chrome 77"
-"earth.mp4",15.299755000000005,1570024,1322592,"matroska","mpeg4","aac",0,48,"Chrome 77"
-"earth.mp4",15.313365000001795,1570024,1322592,"matroska","mpeg4","aac",0,49,"Chrome 77"
-"earth.mp4",15.160994999998366,1570024,1322592,"matroska","mpeg4","aac",0,50,"Chrome 77"
-"lucas.mov",7.513715000000957,4204319,1053916,"matroska","mpeg4","aac",1,1,"Chrome 77"
-"lucas.mov",7.259500000000116,4204319,1053916,"matroska","mpeg4","aac",1,2,"Chrome 77"
-"lucas.mov",13.058624999997846,4204319,1053916,"matroska","mpeg4","aac",1,3,"Chrome 77"
-"lucas.mov",9.430094999996072,4204319,1053916,"matroska","mpeg4","aac",1,4,"Chrome 77"
-"lucas.mov",8.34911500000453,4204319,1053916,"matroska","mpeg4","aac",1,5,"Chrome 77"
-"lucas.mov",9.250995000002149,4204319,1053916,"matroska","mpeg4","aac",1,6,"Chrome 77"
-"lucas.mov",8.598130000005767,4204319,1053916,"matroska","mpeg4","aac",1,7,"Chrome 77"
-"lucas.mov",10.829765000002226,4204319,1053916,"matroska","mpeg4","aac",1,8,"Chrome 77"
-"lucas.mov",11.162049999998999,4204319,1053916,"matroska","mpeg4","aac",1,9,"Chrome 77"
-"lucas.mov",7.235309999996389,4204319,1053916,"matroska","mpeg4","aac",1,10,"Chrome 77"
-"lucas.mov",10.855835000002116,4204319,1053916,"matroska","mpeg4","aac",1,11,"Chrome 77"
-"lucas.mov",8.788065000000643,4204319,1053916,"matroska","mpeg4","aac",1,12,"Chrome 77"
-"lucas.mov",6.789584999998624,4204319,1053916,"matroska","mpeg4","aac",1,13,"Chrome 77"
-"lucas.mov",7.6489999999976135,4204319,1053916,"matroska","mpeg4","aac",1,14,"Chrome 77"
-"lucas.mov",7.207535000001371,4204319,1053916,"matroska","mpeg4","aac",1,15,"Chrome 77"
-"lucas.mov",7.728304999996908,4204319,1053916,"matroska","mpeg4","aac",1,16,"Chrome 77"
-"lucas.mov",7.331169999997655,4204319,1053916,"matroska","mpeg4","aac",1,17,"Chrome 77"
-"lucas.mov",7.25966999999946,4204319,1053916,"matroska","mpeg4","aac",1,18,"Chrome 77"
-"lucas.mov",10.240374999993946,4204319,1053916,"matroska","mpeg4","aac",1,19,"Chrome 77"
-"lucas.mov",10.950199999999313,4204319,1053916,"matroska","mpeg4","aac",1,20,"Chrome 77"
-"lucas.mov",9.095769999999902,4204319,1053916,"matroska","mpeg4","aac",1,21,"Chrome 77"
-"lucas.mov",9.969245000000228,4204319,1053916,"matroska","mpeg4","aac",1,22,"Chrome 77"
-"lucas.mov",9.67987500000163,4204319,1053916,"matroska","mpeg4","aac",1,23,"Chrome 77"
-"lucas.mov",8.310364999997546,4204319,1053916,"matroska","mpeg4","aac",1,24,"Chrome 77"
-"lucas.mov",6.992355000002135,4204319,1053916,"matroska","mpeg4","aac",1,25,"Chrome 77"
-"lucas.mov",8.33163500000228,4204319,1053916,"matroska","mpeg4","aac",1,26,"Chrome 77"
-"lucas.mov",7.279629999997269,4204319,1053916,"matroska","mpeg4","aac",1,27,"Chrome 77"
-"lucas.mov",7.506069999995816,4204319,1053916,"matroska","mpeg4","aac",1,28,"Chrome 77"
-"lucas.mov",6.99693500000285,4204319,1053916,"matroska","mpeg4","aac",1,29,"Chrome 77"
-"lucas.mov",7.3285499999983585,4204319,1053916,"matroska","mpeg4","aac",1,30,"Chrome 77"
-"lucas.mov",6.839124999998603,4204319,1053916,"matroska","mpeg4","aac",1,31,"Chrome 77"
-"lucas.mov",7.422969999999623,4204319,1053916,"matroska","mpeg4","aac",1,32,"Chrome 77"
-"lucas.mov",7.045834999997169,4204319,1053916,"matroska","mpeg4","aac",1,33,"Chrome 77"
-"lucas.mov",8.267070000001695,4204319,1053916,"matroska","mpeg4","aac",1,34,"Chrome 77"
-"lucas.mov",10.776714999999967,4204319,1053916,"matroska","mpeg4","aac",1,35,"Chrome 77"
-"lucas.mov",7.620425000000978,4204319,1053916,"matroska","mpeg4","aac",1,36,"Chrome 77"
-"lucas.mov",6.774720000001253,4204319,1053916,"matroska","mpeg4","aac",1,37,"Chrome 77"
-"lucas.mov",8.111255000003439,4204319,1053916,"matroska","mpeg4","aac",1,38,"Chrome 77"
-"lucas.mov",10.419119999998657,4204319,1053916,"matroska","mpeg4","aac",1,39,"Chrome 77"
-"lucas.mov",10.871885000000475,4204319,1053916,"matroska","mpeg4","aac",1,40,"Chrome 77"
-"lucas.mov",7.496135000001232,4204319,1053916,"matroska","mpeg4","aac",1,41,"Chrome 77"
-"lucas.mov",7.270615000001271,4204319,1053916,"matroska","mpeg4","aac",1,42,"Chrome 77"
-"lucas.mov",8.657690000000002,4204319,1053916,"matroska","mpeg4","aac",1,43,"Chrome 77"
-"lucas.mov",7.896020000000135,4204319,1053916,"matroska","mpeg4","aac",1,44,"Chrome 77"
-"lucas.mov",7.588664999995672,4204319,1053916,"matroska","mpeg4","aac",1,45,"Chrome 77"
-"lucas.mov",9.131665000000794,4204319,1053916,"matroska","mpeg4","aac",1,46,"Chrome 77"
-"lucas.mov",8.006890000004205,4204319,1053916,"matroska","mpeg4","aac",1,47,"Chrome 77"
-"lucas.mov",7.726949999996577,4204319,1053916,"matroska","mpeg4","aac",1,48,"Chrome 77"
-"lucas.mov",6.977835000005143,4204319,1053916,"matroska","mpeg4","aac",1,49,"Chrome 77"
-"lucas.mov",8.160074999999779,4204319,1053916,"matroska","mpeg4","aac",1,50,"Chrome 77"
-"lucas.mov",15.991000000001804,4204319,1053916,"matroska","mpeg4","aac",0,1,"Chrome 77"
-"lucas.mov",20.16039499999897,4204319,1053916,"matroska","mpeg4","aac",0,2,"Chrome 77"
-"lucas.mov",15.827064999997674,4204319,1053916,"matroska","mpeg4","aac",0,3,"Chrome 77"
-"lucas.mov",18.983659999998054,4204319,1053916,"matroska","mpeg4","aac",0,4,"Chrome 77"
-"lucas.mov",18.296455000003334,4204319,1053916,"matroska","mpeg4","aac",0,5,"Chrome 77"
-"lucas.mov",16.090445000001637,4204319,1053916,"matroska","mpeg4","aac",0,6,"Chrome 77"
-"lucas.mov",15.793125000003783,4204319,1053916,"matroska","mpeg4","aac",0,7,"Chrome 77"
-"lucas.mov",15.300445000000764,4204319,1053916,"matroska","mpeg4","aac",0,8,"Chrome 77"
-"lucas.mov",14.54493000000366,4204319,1053916,"matroska","mpeg4","aac",0,9,"Chrome 77"
-"lucas.mov",14.569800000004761,4204319,1053916,"matroska","mpeg4","aac",0,10,"Chrome 77"
-"lucas.mov",16.672585000000254,4204319,1053916,"matroska","mpeg4","aac",0,11,"Chrome 77"
-"lucas.mov",15.407014999997045,4204319,1053916,"matroska","mpeg4","aac",0,12,"Chrome 77"
-"lucas.mov",16.046809999999823,4204319,1053916,"matroska","mpeg4","aac",0,13,"Chrome 77"
-"lucas.mov",15.335390000000189,4204319,1053916,"matroska","mpeg4","aac",0,14,"Chrome 77"
-"lucas.mov",14.693184999996447,4204319,1053916,"matroska","mpeg4","aac",0,15,"Chrome 77"
-"lucas.mov",14.546115000004647,4204319,1053916,"matroska","mpeg4","aac",0,16,"Chrome 77"
-"lucas.mov",15.773509999999078,4204319,1053916,"matroska","mpeg4","aac",0,17,"Chrome 77"
-"lucas.mov",16.78549500000372,4204319,1053916,"matroska","mpeg4","aac",0,18,"Chrome 77"
-"lucas.mov",14.246579999999085,4204319,1053916,"matroska","mpeg4","aac",0,19,"Chrome 77"
-"lucas.mov",14.316415000001143,4204319,1053916,"matroska","mpeg4","aac",0,20,"Chrome 77"
-"lucas.mov",17.962880000006407,4204319,1053916,"matroska","mpeg4","aac",0,21,"Chrome 77"
-"lucas.mov",14.83145499999955,4204319,1053916,"matroska","mpeg4","aac",0,22,"Chrome 77"
-"lucas.mov",14.29146999999648,4204319,1053916,"matroska","mpeg4","aac",0,23,"Chrome 77"
-"lucas.mov",15.018745000001218,4204319,1053916,"matroska","mpeg4","aac",0,24,"Chrome 77"
-"lucas.mov",15.38095500000054,4204319,1053916,"matroska","mpeg4","aac",0,25,"Chrome 77"
-"lucas.mov",14.51713000000018,4204319,1053916,"matroska","mpeg4","aac",0,26,"Chrome 77"
-"lucas.mov",16.038744999998016,4204319,1053916,"matroska","mpeg4","aac",0,27,"Chrome 77"
-"lucas.mov",15.56582999999955,4204319,1053916,"matroska","mpeg4","aac",0,28,"Chrome 77"
-"lucas.mov",15.140845000001718,4204319,1053916,"matroska","mpeg4","aac",0,29,"Chrome 77"
-"lucas.mov",15.3738899999953,4204319,1053916,"matroska","mpeg4","aac",0,30,"Chrome 77"
-"lucas.mov",15.957710000002407,4204319,1053916,"matroska","mpeg4","aac",0,31,"Chrome 77"
-"lucas.mov",16.67817500000092,4204319,1053916,"matroska","mpeg4","aac",0,32,"Chrome 77"
-"lucas.mov",18.14340500000253,4204319,1053916,"matroska","mpeg4","aac",0,33,"Chrome 77"
-"lucas.mov",19.18880000000354,4204319,1053916,"matroska","mpeg4","aac",0,34,"Chrome 77"
-"lucas.mov",15.366374999997788,4204319,1053916,"matroska","mpeg4","aac",0,35,"Chrome 77"
-"lucas.mov",14.556049999999232,4204319,1053916,"matroska","mpeg4","aac",0,36,"Chrome 77"
-"lucas.mov",14.454970000006142,4204319,1053916,"matroska","mpeg4","aac",0,37,"Chrome 77"
-"lucas.mov",14.309610000003886,4204319,1053916,"matroska","mpeg4","aac",0,38,"Chrome 77"
-"lucas.mov",14.272390000005544,4204319,1053916,"matroska","mpeg4","aac",0,39,"Chrome 77"
-"lucas.mov",14.376794999996491,4204319,1053916,"matroska","mpeg4","aac",0,40,"Chrome 77"
-"lucas.mov",14.313909999997122,4204319,1053916,"matroska","mpeg4","aac",0,41,"Chrome 77"
-"lucas.mov",14.339024999993853,4204319,1053916,"matroska","mpeg4","aac",0,42,"Chrome 77"
-"lucas.mov",14.339834999998857,4204319,1053916,"matroska","mpeg4","aac",0,43,"Chrome 77"
-"lucas.mov",14.647344999997586,4204319,1053916,"matroska","mpeg4","aac",0,44,"Chrome 77"
-"lucas.mov",14.806154999998398,4204319,1053916,"matroska","mpeg4","aac",0,45,"Chrome 77"
-"lucas.mov",14.63242999999784,4204319,1053916,"matroska","mpeg4","aac",0,46,"Chrome 77"
-"lucas.mov",14.502034999997704,4204319,1053916,"matroska","mpeg4","aac",0,47,"Chrome 77"
-"lucas.mov",14.5335200000045,4204319,1053916,"matroska","mpeg4","aac",0,48,"Chrome 77"
-"lucas.mov",14.494644999998854,4204319,1053916,"matroska","mpeg4","aac",0,49,"Chrome 77"
-"lucas.mov",14.477509999996983,4204319,1053916,"matroska","mpeg4","aac",0,50,"Chrome 77"
+filename,elapsed_time,input_size,output_size,format,video_codec,audio_codec,wasm,index
+"lucas.mov",7.274880000004487,4204319,1053916,"matroska","mpeg4","aac",1,1
+"lucas.mov",7.892970000000787,4204319,1053916,"matroska","mpeg4","aac",1,2
+"lucas.mov",6.7826550000027055,4204319,1053916,"matroska","mpeg4","aac",1,3
+"lucas.mov",6.7412249999979394,4204319,1053916,"matroska","mpeg4","aac",1,4
+"lucas.mov",6.738024999998743,4204319,1053916,"matroska","mpeg4","aac",1,5
+"lucas.mov",6.698124999995343,4204319,1053916,"matroska","mpeg4","aac",1,6
+"lucas.mov",6.697430000000168,4204319,1053916,"matroska","mpeg4","aac",1,7
+"lucas.mov",6.75843999999779,4204319,1053916,"matroska","mpeg4","aac",1,8
+"lucas.mov",7.044894999999087,4204319,1053916,"matroska","mpeg4","aac",1,9
+"lucas.mov",8.32175499999721,4204319,1053916,"matroska","mpeg4","aac",1,10
+"lucas.mov",8.921550000006391,4204319,1053916,"matroska","mpeg4","aac",1,11
+"lucas.mov",8.111010000000533,4204319,1053916,"matroska","mpeg4","aac",1,12
+"lucas.mov",6.9719049999985145,4204319,1053916,"matroska","mpeg4","aac",1,13
+"lucas.mov",6.7212949999957345,4204319,1053916,"matroska","mpeg4","aac",1,14
+"lucas.mov",6.655650000000605,4204319,1053916,"matroska","mpeg4","aac",1,15
+"lucas.mov",6.7333399999988615,4204319,1053916,"matroska","mpeg4","aac",1,16
+"lucas.mov",6.921150000001944,4204319,1053916,"matroska","mpeg4","aac",1,17
+"lucas.mov",6.786500000001979,4204319,1053916,"matroska","mpeg4","aac",1,18
+"lucas.mov",6.725360000004002,4204319,1053916,"matroska","mpeg4","aac",1,19
+"lucas.mov",6.6763799999971525,4204319,1053916,"matroska","mpeg4","aac",1,20
+"lucas.mov",6.849880000001576,4204319,1053916,"matroska","mpeg4","aac",1,21
+"lucas.mov",6.6941550000046846,4204319,1053916,"matroska","mpeg4","aac",1,22
+"lucas.mov",6.892605000000913,4204319,1053916,"matroska","mpeg4","aac",1,23
+"lucas.mov",6.764250000000175,4204319,1053916,"matroska","mpeg4","aac",1,24
+"lucas.mov",7.015429999999469,4204319,1053916,"matroska","mpeg4","aac",1,25
+"lucas.mov",6.771440000004077,4204319,1053916,"matroska","mpeg4","aac",1,26
+"lucas.mov",6.780899999997928,4204319,1053916,"matroska","mpeg4","aac",1,27
+"lucas.mov",6.764295000000857,4204319,1053916,"matroska","mpeg4","aac",1,28
+"lucas.mov",6.660580000003392,4204319,1053916,"matroska","mpeg4","aac",1,29
+"lucas.mov",6.818590000002587,4204319,1053916,"matroska","mpeg4","aac",1,30
+"lucas.mov",6.7195449999999255,4204319,1053916,"matroska","mpeg4","aac",1,31
+"lucas.mov",7.052540000004228,4204319,1053916,"matroska","mpeg4","aac",1,32
+"lucas.mov",6.717115000006743,4204319,1053916,"matroska","mpeg4","aac",1,33
+"lucas.mov",6.799769999997807,4204319,1053916,"matroska","mpeg4","aac",1,34
+"lucas.mov",6.7082399999999325,4204319,1053916,"matroska","mpeg4","aac",1,35
+"lucas.mov",6.642614999997022,4204319,1053916,"matroska","mpeg4","aac",1,36
+"lucas.mov",6.764275000001362,4204319,1053916,"matroska","mpeg4","aac",1,37
+"lucas.mov",6.618405000001076,4204319,1053916,"matroska","mpeg4","aac",1,38
+"lucas.mov",6.631089999995311,4204319,1053916,"matroska","mpeg4","aac",1,39
+"lucas.mov",6.669029999997292,4204319,1053916,"matroska","mpeg4","aac",1,40
+"lucas.mov",6.791129999997793,4204319,1053916,"matroska","mpeg4","aac",1,41
+"lucas.mov",6.743379999999888,4204319,1053916,"matroska","mpeg4","aac",1,42
+"lucas.mov",6.8009450000026845,4204319,1053916,"matroska","mpeg4","aac",1,43
+"lucas.mov",6.7254699999975855,4204319,1053916,"matroska","mpeg4","aac",1,44
+"lucas.mov",6.7372900000045775,4204319,1053916,"matroska","mpeg4","aac",1,45
+"lucas.mov",6.744794999998703,4204319,1053916,"matroska","mpeg4","aac",1,46
+"lucas.mov",6.810714999999618,4204319,1053916,"matroska","mpeg4","aac",1,47
+"lucas.mov",6.757324999998673,4204319,1053916,"matroska","mpeg4","aac",1,48
+"lucas.mov",8.149564999999711,4204319,1053916,"matroska","mpeg4","aac",1,49
+"lucas.mov",8.470944999993662,4204319,1053916,"matroska","mpeg4","aac",1,50
+"lucas.mov",14.453050000003714,4204319,1053916,"matroska","mpeg4","aac",0,1
+"lucas.mov",14.327964999996766,4204319,1053916,"matroska","mpeg4","aac",0,2
+"lucas.mov",14.301965000006021,4204319,1053916,"matroska","mpeg4","aac",0,3
+"lucas.mov",14.616920000000391,4204319,1053916,"matroska","mpeg4","aac",0,4
+"lucas.mov",14.777724999999919,4204319,1053916,"matroska","mpeg4","aac",0,5
+"lucas.mov",21.55036499999551,4204319,1053916,"matroska","mpeg4","aac",0,6
+"lucas.mov",15.570894999997108,4204319,1053916,"matroska","mpeg4","aac",0,7
+"lucas.mov",16.48859000000084,4204319,1053916,"matroska","mpeg4","aac",0,8
+"lucas.mov",15.553475000000617,4204319,1053916,"matroska","mpeg4","aac",0,9
+"lucas.mov",16.04765999999654,4204319,1053916,"matroska","mpeg4","aac",0,10
+"lucas.mov",14.977365000006102,4204319,1053916,"matroska","mpeg4","aac",0,11
+"lucas.mov",14.976180000005115,4204319,1053916,"matroska","mpeg4","aac",0,12
+"lucas.mov",14.938945000001695,4204319,1053916,"matroska","mpeg4","aac",0,13
+"lucas.mov",13.587240000000747,4204319,1053916,"matroska","mpeg4","aac",0,14
+"lucas.mov",14.686955000004673,4204319,1053916,"matroska","mpeg4","aac",0,15
+"lucas.mov",14.975430000005872,4204319,1053916,"matroska","mpeg4","aac",0,16
+"lucas.mov",14.098785000001953,4204319,1053916,"matroska","mpeg4","aac",0,17
+"lucas.mov",19.0592700000052,4204319,1053916,"matroska","mpeg4","aac",0,18
+"lucas.mov",16.999190000002272,4204319,1053916,"matroska","mpeg4","aac",0,19
+"lucas.mov",15.979245000002265,4204319,1053916,"matroska","mpeg4","aac",0,20
+"lucas.mov",15.873289999995905,4204319,1053916,"matroska","mpeg4","aac",0,21
+"lucas.mov",14.452000000004773,4204319,1053916,"matroska","mpeg4","aac",0,22
+"lucas.mov",13.853844999997818,4204319,1053916,"matroska","mpeg4","aac",0,23
+"lucas.mov",13.85662500000035,4204319,1053916,"matroska","mpeg4","aac",0,24
+"lucas.mov",14.116099999999278,4204319,1053916,"matroska","mpeg4","aac",0,25
+"lucas.mov",14.582710000002407,4204319,1053916,"matroska","mpeg4","aac",0,26
+"lucas.mov",14.100674999994226,4204319,1053916,"matroska","mpeg4","aac",0,27
+"lucas.mov",14.126015000001644,4204319,1053916,"matroska","mpeg4","aac",0,28
+"lucas.mov",14.097580000001471,4204319,1053916,"matroska","mpeg4","aac",0,29
+"lucas.mov",14.04098000000522,4204319,1053916,"matroska","mpeg4","aac",0,30
+"lucas.mov",13.980645000003278,4204319,1053916,"matroska","mpeg4","aac",0,31
+"lucas.mov",15.95802000000549,4204319,1053916,"matroska","mpeg4","aac",0,32
+"lucas.mov",14.873184999996738,4204319,1053916,"matroska","mpeg4","aac",0,33
+"lucas.mov",13.941899999997986,4204319,1053916,"matroska","mpeg4","aac",0,34
+"lucas.mov",14.014035000000149,4204319,1053916,"matroska","mpeg4","aac",0,35
+"lucas.mov",14.094060000003083,4204319,1053916,"matroska","mpeg4","aac",0,36
+"lucas.mov",15.418745000002673,4204319,1053916,"matroska","mpeg4","aac",0,37
+"lucas.mov",14.22865499999898,4204319,1053916,"matroska","mpeg4","aac",0,38
+"lucas.mov",13.976230000000214,4204319,1053916,"matroska","mpeg4","aac",0,39
+"lucas.mov",13.937794999998005,4204319,1053916,"matroska","mpeg4","aac",0,40
+"lucas.mov",13.946255000002566,4204319,1053916,"matroska","mpeg4","aac",0,41
+"lucas.mov",13.992435000000114,4204319,1053916,"matroska","mpeg4","aac",0,42
+"lucas.mov",14.10410000000411,4204319,1053916,"matroska","mpeg4","aac",0,43
+"lucas.mov",14.0352600000042,4204319,1053916,"matroska","mpeg4","aac",0,44
+"lucas.mov",15.53457999999955,4204319,1053916,"matroska","mpeg4","aac",0,45
+"lucas.mov",14.3350350000037,4204319,1053916,"matroska","mpeg4","aac",0,46
+"lucas.mov",13.972970000002533,4204319,1053916,"matroska","mpeg4","aac",0,47
+"lucas.mov",14.04915500000061,4204319,1053916,"matroska","mpeg4","aac",0,48
+"lucas.mov",14.133665000001201,4204319,1053916,"matroska","mpeg4","aac",0,49
+"lucas.mov",13.989289999997709,4204319,1053916,"matroska","mpeg4","aac",0,50
+"earth.mp4",6.290409999994154,1570024,1322592,"matroska","mpeg4","aac",1,1
+"earth.mp4",7.374985000002198,1570024,1322592,"matroska","mpeg4","aac",1,2
+"earth.mp4",7.27730000000156,1570024,1322592,"matroska","mpeg4","aac",1,3
+"earth.mp4",7.1146500000031665,1570024,1322592,"matroska","mpeg4","aac",1,4
+"earth.mp4",7.167565000003378,1570024,1322592,"matroska","mpeg4","aac",1,5
+"earth.mp4",6.26296999999613,1570024,1322592,"matroska","mpeg4","aac",1,6
+"earth.mp4",6.176070000001346,1570024,1322592,"matroska","mpeg4","aac",1,7
+"earth.mp4",6.365440000001399,1570024,1322592,"matroska","mpeg4","aac",1,8
+"earth.mp4",6.208515000005718,1570024,1322592,"matroska","mpeg4","aac",1,9
+"earth.mp4",7.045910000000731,1570024,1322592,"matroska","mpeg4","aac",1,10
+"earth.mp4",6.956230000003416,1570024,1322592,"matroska","mpeg4","aac",1,11
+"earth.mp4",6.246069999993779,1570024,1322592,"matroska","mpeg4","aac",1,12
+"earth.mp4",6.182294999998703,1570024,1322592,"matroska","mpeg4","aac",1,13
+"earth.mp4",6.106410000000324,1570024,1322592,"matroska","mpeg4","aac",1,14
+"earth.mp4",8.664160000000265,1570024,1322592,"matroska","mpeg4","aac",1,15
+"earth.mp4",6.5405400000017835,1570024,1322592,"matroska","mpeg4","aac",1,16
+"earth.mp4",7.185545000000275,1570024,1322592,"matroska","mpeg4","aac",1,17
+"earth.mp4",6.552835000002233,1570024,1322592,"matroska","mpeg4","aac",1,18
+"earth.mp4",6.494039999997767,1570024,1322592,"matroska","mpeg4","aac",1,19
+"earth.mp4",6.2371449999991455,1570024,1322592,"matroska","mpeg4","aac",1,20
+"earth.mp4",6.445315000004484,1570024,1322592,"matroska","mpeg4","aac",1,21
+"earth.mp4",6.3529750000016065,1570024,1322592,"matroska","mpeg4","aac",1,22
+"earth.mp4",6.2476300000053016,1570024,1322592,"matroska","mpeg4","aac",1,23
+"earth.mp4",6.4171949999945355,1570024,1322592,"matroska","mpeg4","aac",1,24
+"earth.mp4",6.302179999998771,1570024,1322592,"matroska","mpeg4","aac",1,25
+"earth.mp4",6.288769999999204,1570024,1322592,"matroska","mpeg4","aac",1,26
+"earth.mp4",6.188034999999218,1570024,1322592,"matroska","mpeg4","aac",1,27
+"earth.mp4",6.2805200000002515,1570024,1322592,"matroska","mpeg4","aac",1,28
+"earth.mp4",6.2699849999989965,1570024,1322592,"matroska","mpeg4","aac",1,29
+"earth.mp4",6.221880000004603,1570024,1322592,"matroska","mpeg4","aac",1,30
+"earth.mp4",6.2975250000017695,1570024,1322592,"matroska","mpeg4","aac",1,31
+"earth.mp4",6.280869999995048,1570024,1322592,"matroska","mpeg4","aac",1,32
+"earth.mp4",6.401864999999816,1570024,1322592,"matroska","mpeg4","aac",1,33
+"earth.mp4",6.516394999998738,1570024,1322592,"matroska","mpeg4","aac",1,34
+"earth.mp4",6.1989099999991595,1570024,1322592,"matroska","mpeg4","aac",1,35
+"earth.mp4",6.459885000003851,1570024,1322592,"matroska","mpeg4","aac",1,36
+"earth.mp4",6.196820000004664,1570024,1322592,"matroska","mpeg4","aac",1,37
+"earth.mp4",6.299800000000687,1570024,1322592,"matroska","mpeg4","aac",1,38
+"earth.mp4",6.35570000000007,1570024,1322592,"matroska","mpeg4","aac",1,39
+"earth.mp4",6.421825000004901,1570024,1322592,"matroska","mpeg4","aac",1,40
+"earth.mp4",6.289949999998498,1570024,1322592,"matroska","mpeg4","aac",1,41
+"earth.mp4",6.254390000001877,1570024,1322592,"matroska","mpeg4","aac",1,42
+"earth.mp4",6.1876850000044215,1570024,1322592,"matroska","mpeg4","aac",1,43
+"earth.mp4",6.2803100000019185,1570024,1322592,"matroska","mpeg4","aac",1,44
+"earth.mp4",6.415150000000722,1570024,1322592,"matroska","mpeg4","aac",1,45
+"earth.mp4",6.196540000004461,1570024,1322592,"matroska","mpeg4","aac",1,46
+"earth.mp4",6.3164099999994505,1570024,1322592,"matroska","mpeg4","aac",1,47
+"earth.mp4",6.439494999998715,1570024,1322592,"matroska","mpeg4","aac",1,48
+"earth.mp4",6.505055000001448,1570024,1322592,"matroska","mpeg4","aac",1,49
+"earth.mp4",6.318590000002587,1570024,1322592,"matroska","mpeg4","aac",1,50
+"earth.mp4",14.948335000000952,1570024,1322592,"matroska","mpeg4","aac",0,1
+"earth.mp4",14.872695000005479,1570024,1322592,"matroska","mpeg4","aac",0,2
+"earth.mp4",14.994364999998652,1570024,1322592,"matroska","mpeg4","aac",0,3
+"earth.mp4",15.124340000002121,1570024,1322592,"matroska","mpeg4","aac",0,4
+"earth.mp4",14.988724999995611,1570024,1322592,"matroska","mpeg4","aac",0,5
+"earth.mp4",14.845539999994799,1570024,1322592,"matroska","mpeg4","aac",0,6
+"earth.mp4",14.92685000000347,1570024,1322592,"matroska","mpeg4","aac",0,7
+"earth.mp4",14.832949999996345,1570024,1322592,"matroska","mpeg4","aac",0,8
+"earth.mp4",15.136324999999488,1570024,1322592,"matroska","mpeg4","aac",0,9
+"earth.mp4",14.955535000000964,1570024,1322592,"matroska","mpeg4","aac",0,10
+"earth.mp4",14.867154999999912,1570024,1322592,"matroska","mpeg4","aac",0,11
+"earth.mp4",14.989379999999073,1570024,1322592,"matroska","mpeg4","aac",0,12
+"earth.mp4",15.050299999995332,1570024,1322592,"matroska","mpeg4","aac",0,13
+"earth.mp4",14.991345000002184,1570024,1322592,"matroska","mpeg4","aac",0,14
+"earth.mp4",14.879625000001397,1570024,1322592,"matroska","mpeg4","aac",0,15
+"earth.mp4",14.944414999998116,1570024,1322592,"matroska","mpeg4","aac",0,16
+"earth.mp4",14.89002499999333,1570024,1322592,"matroska","mpeg4","aac",0,17
+"earth.mp4",14.990295000003243,1570024,1322592,"matroska","mpeg4","aac",0,18
+"earth.mp4",15.202830000001995,1570024,1322592,"matroska","mpeg4","aac",0,19
+"earth.mp4",15.15686999999889,1570024,1322592,"matroska","mpeg4","aac",0,20
+"earth.mp4",15.140375000002678,1570024,1322592,"matroska","mpeg4","aac",0,21
+"earth.mp4",14.95394999999553,1570024,1322592,"matroska","mpeg4","aac",0,22
+"earth.mp4",15.201584999995248,1570024,1322592,"matroska","mpeg4","aac",0,23
+"earth.mp4",14.860070000002452,1570024,1322592,"matroska","mpeg4","aac",0,24
+"earth.mp4",14.76973999999609,1570024,1322592,"matroska","mpeg4","aac",0,25
+"earth.mp4",14.73266500000318,1570024,1322592,"matroska","mpeg4","aac",0,26
+"earth.mp4",15.524389999998675,1570024,1322592,"matroska","mpeg4","aac",0,27
+"earth.mp4",15.208939999996801,1570024,1322592,"matroska","mpeg4","aac",0,28
+"earth.mp4",14.865160000001197,1570024,1322592,"matroska","mpeg4","aac",0,29
+"earth.mp4",15.029194999995525,1570024,1322592,"matroska","mpeg4","aac",0,30
+"earth.mp4",14.928824999995413,1570024,1322592,"matroska","mpeg4","aac",0,31
+"earth.mp4",14.902185000006284,1570024,1322592,"matroska","mpeg4","aac",0,32
+"earth.mp4",14.93593000000692,1570024,1322592,"matroska","mpeg4","aac",0,33
+"earth.mp4",15.10426500000176,1570024,1322592,"matroska","mpeg4","aac",0,34
+"earth.mp4",14.912270000000717,1570024,1322592,"matroska","mpeg4","aac",0,35
+"earth.mp4",14.940569999998843,1570024,1322592,"matroska","mpeg4","aac",0,36
+"earth.mp4",14.884925000005751,1570024,1322592,"matroska","mpeg4","aac",0,37
+"earth.mp4",14.972374999997555,1570024,1322592,"matroska","mpeg4","aac",0,38
+"earth.mp4",15.084000000002561,1570024,1322592,"matroska","mpeg4","aac",0,39
+"earth.mp4",14.921484999998938,1570024,1322592,"matroska","mpeg4","aac",0,40
+"earth.mp4",14.839404999998806,1570024,1322592,"matroska","mpeg4","aac",0,41
+"earth.mp4",14.926955000002636,1570024,1322592,"matroska","mpeg4","aac",0,42
+"earth.mp4",14.77232499999809,1570024,1322592,"matroska","mpeg4","aac",0,43
+"earth.mp4",14.995490000001155,1570024,1322592,"matroska","mpeg4","aac",0,44
+"earth.mp4",15.011500000000524,1570024,1322592,"matroska","mpeg4","aac",0,45
+"earth.mp4",14.846154999999271,1570024,1322592,"matroska","mpeg4","aac",0,46
+"earth.mp4",15.584990000003017,1570024,1322592,"matroska","mpeg4","aac",0,47
+"earth.mp4",15.530025000000023,1570024,1322592,"matroska","mpeg4","aac",0,48
+"earth.mp4",15.754675000003772,1570024,1322592,"matroska","mpeg4","aac",0,49
+"earth.mp4",15.86594000000332,1570024,1322592,"matroska","mpeg4","aac",0,50
